@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itpha\\CodeTasks\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\ManagementCodeTasks.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\ManagementCodeTasks.WebApp.csproj",
       "projectName": "ManagementCodeTasks.WebApp",
-      "projectPath": "C:\\Users\\itpha\\CodeTasks\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\ManagementCodeTasks.WebApp.csproj",
+      "projectPath": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\ManagementCodeTasks.WebApp.csproj",
       "packagesPath": "C:\\Users\\itpha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itpha\\CodeTasks\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\itpha\\AppData\\Roaming\\NuGet\\NuGet.Config",

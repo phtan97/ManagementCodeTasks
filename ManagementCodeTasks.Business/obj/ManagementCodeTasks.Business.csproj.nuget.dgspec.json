@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itpha\\CodeTasks\\ManagementCodeTasks\\ManagementCodeTasks.Business\\ManagementCodeTasks.Business.csproj": {}
+    "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.Business\\ManagementCodeTasks.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itpha\\CodeTasks\\ManagementCodeTasks\\ManagementCodeTasks.Business\\ManagementCodeTasks.Business.csproj": {
+    "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.Business\\ManagementCodeTasks.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itpha\\CodeTasks\\ManagementCodeTasks\\ManagementCodeTasks.Business\\ManagementCodeTasks.Business.csproj",
+        "projectUniqueName": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.Business\\ManagementCodeTasks.Business.csproj",
         "projectName": "ManagementCodeTasks.Business",
-        "projectPath": "C:\\Users\\itpha\\CodeTasks\\ManagementCodeTasks\\ManagementCodeTasks.Business\\ManagementCodeTasks.Business.csproj",
+        "projectPath": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.Business\\ManagementCodeTasks.Business.csproj",
         "packagesPath": "C:\\Users\\itpha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itpha\\CodeTasks\\ManagementCodeTasks\\ManagementCodeTasks.Business\\obj\\",
+        "outputPath": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\itpha\\AppData\\Roaming\\NuGet\\NuGet.Config",

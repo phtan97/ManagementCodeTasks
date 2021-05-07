@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SD30A9qPZM4Y8c+srAKEA/NNTp2TvTED0ShtXSzKichuuIZYIw3v/gj+MA+8xFKr/odaOyMvmM+IJNN8YefNag==",
+  "dgSpecHash": "rp0yqcGFemWbWoXBywwu2S7DroWalhVLH9ZjtRpuU0ddrIQtzy6jQEHx6o97ZZSwGFWzD8XDq1TA9j7mdESWZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\itpha\\CodeTasks\\ManagementCodeTasks\\ManagementCodeTasks.Data\\ManagementCodeTasks.Data.csproj",
+  "projectFilePath": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.Data\\ManagementCodeTasks.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\itpha\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\itpha\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

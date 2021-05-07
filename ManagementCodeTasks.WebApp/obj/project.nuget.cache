@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YruHhTmQqO67fLxp+VOXeVX0HnYdGefTe/gH8O5Pq6gYrfnDxjOAQHpBP2IYCKUXFvvJs9OvFdzC4k/3xqGTYQ==",
+  "dgSpecHash": "h4VlqAG2sFt976MBnDW9n/NVVwgiEId+JpC1JG9V+TH9GF2mAF34x05aiIC4UbJbrwZEmE5mJjcPR6d9JdZJKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\itpha\\CodeTasks\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\ManagementCodeTasks.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\ManagementCodeTasks.WebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
