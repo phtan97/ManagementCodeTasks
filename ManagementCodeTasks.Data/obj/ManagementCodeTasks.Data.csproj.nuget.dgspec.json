@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.Data\\ManagementCodeTasks.Data.csproj": {}
+    "C:\\Users\\tan\\Desktop\\Project_C#\\ManagementCodeTasks\\ManagementCodeTasks.Data\\ManagementCodeTasks.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.Data\\ManagementCodeTasks.Data.csproj": {
+    "C:\\Users\\tan\\Desktop\\Project_C#\\ManagementCodeTasks\\ManagementCodeTasks.Data\\ManagementCodeTasks.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.Data\\ManagementCodeTasks.Data.csproj",
+        "projectUniqueName": "C:\\Users\\tan\\Desktop\\Project_C#\\ManagementCodeTasks\\ManagementCodeTasks.Data\\ManagementCodeTasks.Data.csproj",
         "projectName": "ManagementCodeTasks.Data",
-        "projectPath": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.Data\\ManagementCodeTasks.Data.csproj",
-        "packagesPath": "C:\\Users\\itpha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.Data\\obj\\",
+        "projectPath": "C:\\Users\\tan\\Desktop\\Project_C#\\ManagementCodeTasks\\ManagementCodeTasks.Data\\ManagementCodeTasks.Data.csproj",
+        "packagesPath": "C:\\Users\\tan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tan\\Desktop\\Project_C#\\ManagementCodeTasks\\ManagementCodeTasks.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\itpha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,8 +37,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -53,6 +55,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[3.1.14, )"
             }
@@ -72,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

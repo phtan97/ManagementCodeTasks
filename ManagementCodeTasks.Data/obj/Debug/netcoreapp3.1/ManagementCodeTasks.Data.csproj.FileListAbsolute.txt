@@ -1,0 +1,12 @@
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\bin\Debug\netcoreapp3.1\ManagementCodeTasks.Data.deps.json
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\bin\Debug\netcoreapp3.1\ManagementCodeTasks.Data.runtimeconfig.json
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\bin\Debug\netcoreapp3.1\ManagementCodeTasks.Data.runtimeconfig.dev.json
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\bin\Debug\netcoreapp3.1\ManagementCodeTasks.Data.dll
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\bin\Debug\netcoreapp3.1\ManagementCodeTasks.Data.pdb
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Data.AssemblyInfoInputs.cache
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Data.AssemblyInfo.cs
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Data.dll
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Data.pdb
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Data.genruntimeconfig.cache
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Data.csproj.CoreCompileInputs.cache
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Data\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Data.csprojAssemblyReference.cache

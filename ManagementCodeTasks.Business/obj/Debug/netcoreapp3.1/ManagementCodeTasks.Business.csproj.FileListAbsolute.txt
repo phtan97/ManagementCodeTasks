@@ -1,0 +1,9 @@
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Business\bin\Debug\netcoreapp3.1\ManagementCodeTasks.Business.deps.json
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Business\bin\Debug\netcoreapp3.1\ManagementCodeTasks.Business.dll
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Business\bin\Debug\netcoreapp3.1\ManagementCodeTasks.Business.pdb
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Business\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Business.AssemblyInfoInputs.cache
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Business\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Business.AssemblyInfo.cs
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Business\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Business.csproj.CoreCompileInputs.cache
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Business\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Business.dll
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Business\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Business.pdb
+C:\Users\tan\Desktop\Project_C#\ManagementCodeTasks\ManagementCodeTasks.Business\obj\Debug\netcoreapp3.1\ManagementCodeTasks.Business.csprojAssemblyReference.cache

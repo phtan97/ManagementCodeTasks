@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\itpha\\.nuget\\packages\\": {}
+    "C:\\Users\\tan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\ManagementCodeTasks.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\tan\\Desktop\\Project_C#\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\ManagementCodeTasks.WebApp.csproj",
       "projectName": "ManagementCodeTasks.WebApp",
-      "projectPath": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\ManagementCodeTasks.WebApp.csproj",
-      "packagesPath": "C:\\Users\\itpha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itpha\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\obj\\",
+      "projectPath": "C:\\Users\\tan\\Desktop\\Project_C#\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\ManagementCodeTasks.WebApp.csproj",
+      "packagesPath": "C:\\Users\\tan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tan\\Desktop\\Project_C#\\ManagementCodeTasks\\ManagementCodeTasks.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\itpha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +32,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -44,7 +43,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -63,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
